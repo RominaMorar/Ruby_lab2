@@ -1,0 +1,14 @@
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/obj/Debug/net8.0/DistributedDBSolution.DAL.csproj.AssemblyReference.cache
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/obj/Debug/net8.0/DistributedDBSolution.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/obj/Debug/net8.0/DistributedDBSolution.DAL.AssemblyInfoInputs.cache
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/obj/Debug/net8.0/DistributedDBSolution.DAL.AssemblyInfo.cs
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/obj/Debug/net8.0/DistributedDBSolution.DAL.csproj.CoreCompileInputs.cache
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/bin/Debug/net8.0/DistributedDBSolution.DAL.deps.json
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/bin/Debug/net8.0/DistributedDBSolution.DAL.runtimeconfig.json
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/bin/Debug/net8.0/DistributedDBSolution.DAL.dll
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/bin/Debug/net8.0/DistributedDBSolution.DAL.pdb
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/obj/Debug/net8.0/DistributedDBSolution.DAL.dll
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/obj/Debug/net8.0/refint/DistributedDBSolution.DAL.dll
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/obj/Debug/net8.0/DistributedDBSolution.DAL.pdb
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/obj/Debug/net8.0/DistributedDBSolution.DAL.genruntimeconfig.cache
+/Users/romyna_m/Documents/RUBY/Ruby_lab2/DistributedDBSolution.DAL/obj/Debug/net8.0/ref/DistributedDBSolution.DAL.dll

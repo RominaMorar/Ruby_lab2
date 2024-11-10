@@ -1,0 +1,6 @@
+@DistributedDBSolution_HostAddress = http://localhost:5238
+
+GET {{DistributedDBSolution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
